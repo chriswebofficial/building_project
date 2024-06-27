@@ -1,0 +1,185 @@
+@media  (max-width: 600px) {
+  .step1 {
+    font-size: 2rem;
+    font-weight: 300;
+    width: 20rem;
+    position: absolute;
+    left: 3rem;
+    text-align: center;
+    top: 5rem;
+  }
+  /* .hamburger {
+  cursor: pointer;
+  margin-left: 7rem;
+  margin-top: 1rem;
+} */
+  .wel {
+    font-size: 11px;
+    position: absolute;
+    top: 19rem;
+    width: 23rem;
+    left: 2.3rem;
+  }
+  .button1 a {
+    top: 26rem;
+  }
+  .ab {
+    font-size: 1.2rem;
+    top: 48rem;
+    left: 3rem;
+  }
+  .NI {
+    font-size: 1rem;
+    width: 23rem;
+    top: 50rem;
+    left: 3rem;
+  }
+  .n2 {
+    left: 3rem;
+    top: 57rem;
+    width: 27rem;
+  }
+  .button2 a {
+    left: 3rem;
+    top: 69rem;
+    border-radius: 0rem;
+    width: 5rem;
+  }
+  .button2 a:hover {
+    font-size: 0rem;
+    width: 0rem;
+  }
+  .our {
+    left: 3rem;
+    top: 72rem;
+    font-size: 1.4rem;
+  }
+  .we {
+    left: 3rem;
+    font-size: 1rem;
+    top: 75rem;
+    width: 20rem;
+    box-shadow: 0px 0px 0px rgba(7, 7, 7, 0.5);
+  }
+
+  .pic4 img {
+    display: none;
+  }
+  .color-overlay1 {
+    display: none;
+  }
+  .color-overlay {
+    left: 0rem;
+    height: 20rem;
+    width: 30.2rem;
+  }
+  .pic5 img {
+    left: 0rem;
+    height: 20rem;
+    width: 30.2rem;
+  }
+  .care {
+    left: 3rem;
+    line-height: 3rem;
+    top: 86rem;
+  }
+  .s1 {
+    font-size: 1rem;
+    padding-bottom: 2rem;
+  }
+  .s2 {
+    display: grid;
+  }
+  .color-overlay2 {
+    display: grid;
+    height: 72.7rem;
+  }
+  .s2 img {
+    height: 18rem;
+    width: 30.2rem;
+    position: relative;
+  }
+  .s3 h2,
+  .ce h2,
+  .s5 h2,
+  .s6 h2 {
+    display: none;
+  }
+  .bc {
+    top: 154rem;
+    width: 27rem;
+    left: 3rem;
+  }
+  .bc p {
+    width: 23rem;
+  }
+  .s4 {
+    left: 3rem;
+  }
+  .s4 {
+    width: 23rem;
+  }
+  .dc {
+    left: 3rem;
+    top: 189rem;
+    width: 26rem;
+  }
+  .dc p {
+    width: 25rem;
+  }
+  .pm {
+    left: 3rem;
+    top: 207rem;
+    width: 25rem;
+  }
+  .pm p {
+    width: 25rem;
+  }
+  .s7 {
+    font-size: 1.5rem;
+  }
+  .s7 p {
+    font-size: 1rem;
+    width: 27rem;
+  }
+  .flex {
+    display: grid;
+    width: 23rem;
+    margin: auto;
+    box-shadow: 0px 0px 0px rgba(7, 7, 7, 0.5);
+  }
+  .flex p {
+    font-size: 1rem;
+  }
+  .bui {
+    font-size: 1.4rem;
+    width: 30rem;
+    text-align: center;
+  }
+  .ready {
+    font-size: 1rem;
+    position: relative;
+    top: -14rem;
+    width: 20rem;
+    background-color: transparent;
+    color: rgba(22, 157, 211, 0.781);
+    left: -9rem;
+  }
+  .s8 {
+    position: relative;
+    top: -15rem;
+    left: -3rem;
+  }
+  .down .oat {
+    height: 70rem;
+    display: grid;
+  }
+  .oat h2 {
+    padding-top: 1rem;
+    padding-left: 1rem;
+  }
+  .oat p,
+  a {
+    font-size: 0.9rem;
+  }
+}
